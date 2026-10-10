@@ -1,0 +1,30 @@
+
+name: Build Animasi Anak Gratis APK
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/build-apk.yml"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ambil kode
+        uses: actions/checkout@v4
+
+      - name: Siapkan Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Siapkan Gradle
+        uses: gradle/actions/setup-gradle@v4
+
+      - name: Periksa proyek Android
+        run: |
+          echo "Workflow aktif."
+          echo "Kode aplikasi Android belum dimasukkan."
+          exit 1
