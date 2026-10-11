@@ -1,0 +1,40 @@
+# kata,kata|langit|tanah|benda di langit|hiasan di cakrawala
+# Warna ditulis heksa (RRGGBB). Baris PERTAMA = latar bawaan.
+hutan,rimba,pohon|87CEFA|5AB45A|☀️ ☁️|🌳 🌲 🌳 🌿
+malam,bulan,bintang|141846|1E5A32|🌙 ⭐ ⭐ ✨|🌲 🌳 🌲
+pagi|BEE6FF|78C878|🌞 🐦|🌳 🌻 🌳
+senja,sore,fajar|FF9650|3C6E3C|🌅|🌳 🌲 🌳
+pantai,laut,ombak|87CEFA|F0DC96|☀️ ☁️|🌴 🏖️ ⛵ 🌊
+sungai,danau,kolam|87CEFA|5AA0DC|☀️ ☁️|🌾 🌿 🦆
+karang,selam,terumbu|1478C8|E6D296|☀️|🐚 🌿 🦀
+rumah,kamar,dapur|FFEBC8|BE8C5A|🕰️ 🖼️|🛋️ 🪑 🛏️
+sekolah,kelas,belajar|EBF0FA|C8AA78|🕐|🪑 📚 🎒 ✏️
+perpustakaan|F5EBDC|BE9664|🕐|📚 🪑 📖
+kota,gedung,lalulintas|AAD2F0|505058|☀️ ☁️|🏢 🏬 🏙️ 🚦
+sawah,desa,ladang,padi|96D2FA|A0C846|☀️ ☁️|🌾 🛖 🌴 🌾
+gunung,bukit|96C8F0|5AAA5A|☀️ ☁️|⛰️ 🏔️ ⛰️ 🌲
+salju,dingin,beku|C8D7EB|F5F8FF|❄️ ☁️|⛄ 🌲 ❄️ 🏔️
+gurun,pasir,oase|FFD796|F0C878|☀️|🌵 🏜️ 🌵 🐪
+savana,sabana|FFDC96|C8B450|☀️|🌳 🌾 🌳
+hujan,mendung,badai|78829A|3C7846|🌧️ ☁️ ⛈️|🌳 🌿 ☔ 🌳
+taman,ayunan|87CEFA|5AB45A|☀️ ☁️|🌷 🌻 🌳 🌼 🎠
+kebun|96D2FA|78C850|☀️ 🦋|🌻 🌷 🌹 🌼
+bambu|96D2FA|64AA50|☀️|🎋 🎍 🎋
+pasar,toko,belanja|FFE1B4|D2BE96|☀️|🏪 🍎 🍌 🥕 🛒
+restoran,kafe,warung|FFEBC8|BE8C5A|🕐|🍽️ 🍕 ☕ 🍰
+zoo,kandang|96D2FA|78B450|☀️|🌳 🎪 🌴
+peternakan,lumbung|96D2FA|8CC850|☀️ ☁️|🌾 🛖 🌾 🌻
+angkasa,planet,galaksi,antariksa|05051E|2A2A40|🌍 ⭐ ✨ 🪐|🛰️ ☄️ 🌑
+bandara,landasan|AAD2F0|8C8C96|☀️ ☁️|🛫 🛬 🏢 🧳
+pelabuhan,dermaga|87CEFA|A0A0AA|☀️ ☁️|⚓ 🚢 🏗️
+rumahsakit,klinik,obat,sakit|F0F8FF|DCE6EB|➕|🏥 🚑 💊
+lab,laboratorium,sains,eksperimen|F0F5FF|C8D2DC|🔬|🧪 🔬 🔭
+pabrik,industri,mesin|B4C8DC|78787F|☁️|🏭 ⚙️ 🏭
+istana,kerajaan,kastil|AAD2F0|78B450|☀️ ☁️|🏰 🌷 🏰 🚩
+lapangan,stadion,sepakbola|96D2FA|50B450|☀️|🥅 ⚽ 🏟️
+pesta,ulangtahun,perayaan|FFE6F0|F0B4C8|🎈 🎉 ✨|🎂 🎁 🎈 🎊
+sirkus,karnaval|FFD2E6|C8B4C8|🎪 ✨|🎪 🎡 🎠
+panggung,konser,teater,bioskop|28143C|463C50|✨ 🎶 ⭐|🎭 🎤 🎸 🎹
+kemah,kamping,tenda,unggun|141846|1E5A32|🌙 ⭐ ✨|⛺ 🔥 🌲 🪵
+gua,goa,tambang|3C3C46|5A5A64|🔦|🦇 💎 🦇
+natal|141846|F5F8FF|🌙 ⭐|🎄 ⛄ 🎁 🎄
