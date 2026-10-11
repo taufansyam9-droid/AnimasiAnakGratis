@@ -418,7 +418,17 @@ class AnimasiView extends View {
             y = h * 0.74f - (float) Math.abs(Math.sin(t * pi * 8)) * sz * 0.15f;
             sudut = (float) Math.sin(t * pi * 8) * 4f;
         }
-        emoji(c, tokoh[indeks], x, y, sz, sudut, BALIK);
+        int[] orang = Tokoh.MANUSIA.get(tk);
+        int[] burung = Tokoh.BURUNG.get(tk);
+        if (orang != null && !air) {
+            Tokoh.gambarManusia(c, x, h * 0.72f, w * 0.07f, orang, t);
+        } else if (burung != null && !air) {
+            Tokoh.gambarBurung(c, x, y, w * 0.08f, burung, t);
+        } else if (tk.equals("kupu") && !air) {
+            Tokoh.gambarKupu(c, x, y, w * 0.08f, t);
+        } else {
+            emoji(c, tokoh[indeks], x, y, sz, sudut, BALIK);
+        }
 
         rect(c, 0, h * 0.755f, w, h, Color.argb(190, 255, 255, 255));
         rect(c, 0, 0, w * 0.45f, h * 0.06f, Color.argb(190, 255, 255, 255));
